@@ -1,4 +1,4 @@
 Installation package
 
 Installation url
-https://raw.githubusercontent.com/RomanFadeyev/OCI/main/Installer/setup.exe
+https://raw.githubusercontent.com/RomanFadeyev/OCI/main/setup.exe
