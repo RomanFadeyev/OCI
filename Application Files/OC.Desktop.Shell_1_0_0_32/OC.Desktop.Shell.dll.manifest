@@ -384,7 +384,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>miGaMDSQA9j3l07ZFSr6hObNxdBAht9XRlyGIsWK6Lo=</dsig:DigestValue>
+      <dsig:DigestValue>NqM8wkQ0bRsJM1A9PuT30epKnP2eJedGBOOzTrEQGwQ=</dsig:DigestValue>
     </hash>
   </file>
   <file name="OC.Desktop.Shell.exe" size="174592">
@@ -486,13 +486,13 @@
       <dsig:DigestValue>kRJjEiZXQrpgMTnaJMEFLmQRtYgnJjz0ALMNde3d3XI=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="OC.Services.YandexSellerConnector.dll" size="50688">
+  <file name="OC.Services.YandexSellerConnector.dll" size="50176">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>lNT2FBsBNAP6D7tMjebDfM48cpQUfi21XKZDhjSoDbg=</dsig:DigestValue>
+      <dsig:DigestValue>2CsO+7cAJCrmVI3z2GohkLqxSNTaQAPrI1ZJdeFrFLg=</dsig:DigestValue>
     </hash>
   </file>
   <file name="office.dll" size="457384">
@@ -564,7 +564,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>QfqpAJNpGHpGeyoBoQzCZu4v/0gHZ9f0pwkx/b+VUVE=</dsig:DigestValue>
+      <dsig:DigestValue>oQxi3tKWh1QN5fq/C9pNUAmRFnTAhgy5wdIPLWieUp4=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ru\OC.Desktop.Views.resources.dll" size="3072">
