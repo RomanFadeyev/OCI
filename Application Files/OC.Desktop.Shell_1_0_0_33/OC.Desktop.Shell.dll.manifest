@@ -384,7 +384,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>hLQvg1BSwaQIVgZT20QWtFoc3nSJhGfo16xu2E61wCY=</dsig:DigestValue>
+      <dsig:DigestValue>g9m++TPH3FWh4mGYeIFV7ml0xlzf2bc88R9rpuEYr2w=</dsig:DigestValue>
     </hash>
   </file>
   <file name="OC.Desktop.Shell.exe" size="174592">
@@ -465,7 +465,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>HqDJP/XpfI+j/5pFFXU7BYcZzxryD167dLMZfyHTjFk=</dsig:DigestValue>
+      <dsig:DigestValue>aTkYRv/Tzd1+hgjEW1IRVOkO6Ob/bEWs/D/5Wc+pWeM=</dsig:DigestValue>
     </hash>
   </file>
   <file name="OC.Services.OzonSellerConnector.dll" size="199168">
@@ -486,13 +486,13 @@
       <dsig:DigestValue>X6DW+3DuxfQhDrgnGuNFI8AMmQOS90xLNVUM/d1TNMQ=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="OC.Services.YandexSellerConnector.dll" size="50688">
+  <file name="OC.Services.YandexSellerConnector.dll" size="50176">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>dZnYlpwFOjHesofFyk5Hd3lZeeXQ/b/nv62cXmGZ8cc=</dsig:DigestValue>
+      <dsig:DigestValue>Mf1sNnesAtzJBNfaklGBhMMi4sRBrKlj8uqkowVrNZE=</dsig:DigestValue>
     </hash>
   </file>
   <file name="office.dll" size="457384">
@@ -564,7 +564,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>VlscoBuUo0l2REYfzM6LCe0/PcIKauT5sBtjurWwPDI=</dsig:DigestValue>
+      <dsig:DigestValue>WcFjBV0DRkoJyl9xDyJlUbSf34upvm43wId9Jp1Xw4k=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ru\OC.Desktop.Views.resources.dll" size="3072">
