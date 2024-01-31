@@ -564,7 +564,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>xPJfu9ggmvc/le8L2nl4iFVOG1pIA00Vlo+FZOPn/nA=</dsig:DigestValue>
+      <dsig:DigestValue>QAeAHUUmPviYI4wFsGBYm3cZOGpYjnkN5DWTJgPbt1Y=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ru\OC.Desktop.Views.resources.dll" size="3072">
