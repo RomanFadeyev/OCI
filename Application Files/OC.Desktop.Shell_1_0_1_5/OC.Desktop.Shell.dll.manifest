@@ -456,7 +456,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>4c8khGb/mK3ABL6WGHg1jlbJ+opVLgJ1hutGH/ty1bA=</dsig:DigestValue>
+      <dsig:DigestValue>++9QiSOEG00+XfaND/WErStn4CBebHp7x0FQD8B8JyU=</dsig:DigestValue>
     </hash>
   </file>
   <file name="OC.Services.DownloadCache.dll" size="13312">
@@ -564,7 +564,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>9MZkI2l7KVpYeW/IXEXw++Uc/W6mnKIaPa/aLVr8aS0=</dsig:DigestValue>
+      <dsig:DigestValue>EqOyW/F7uD2uoJWwu2mTmypHqrYw7PVhUuZUxE4xstk=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ru\OC.Desktop.Views.resources.dll" size="3072">
@@ -591,7 +591,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>lmbUKg2Yqf5NjnTZpp+IoRVVjgdb7sRD1YjkGTcMDcQ=</dsig:DigestValue>
+      <dsig:DigestValue>xeWG0pJJqHy0ton9vauUHfqvRxTRr+9/QfRq+bYClwM=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ru\Telerik.Windows.Controls.resources.dll" size="6144">
