@@ -474,7 +474,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>iRM2CElWVW99NvRbEe5vmaPag1k2CP628X7VvItCzHg=</dsig:DigestValue>
+      <dsig:DigestValue>XieviLnUYQ5Ohnq1xRLhEMursRY8FgtP2pS8qMQUupU=</dsig:DigestValue>
     </hash>
   </file>
   <file name="OC.Services.OzonSellerConnector.dll" size="198656">
@@ -564,7 +564,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>hOXVHMzJ1xCdtCrr2PKUe5SO1nwhFAd5vj1MEMJWjl0=</dsig:DigestValue>
+      <dsig:DigestValue>QhAe4Rc0FsQLN3A82Qh3StDGvTHNVnYwkqnuOYwdt4M=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ru\OC.Desktop.Views.resources.dll" size="3072">
