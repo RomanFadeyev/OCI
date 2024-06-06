@@ -258,7 +258,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>4N9eMQ+JlvGTJ5CwVqT/GQ85lICPohxvnFEpOnUE2eU=</dsig:DigestValue>
+      <dsig:DigestValue>44ccvaFHWULbRFKzV9SiHwraWJhzsCZCBoM8R0oMhIg=</dsig:DigestValue>
     </hash>
   </file>
   <file name="OC.Desktop.Shell.exe" size="174592">
@@ -279,13 +279,13 @@
       <dsig:DigestValue>s7YyGNLEslCdg6qby4mt71slRzkLpTHBqKC7ERtBO0k=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="OC.Desktop.Views.dll" size="19006464">
+  <file name="OC.Desktop.Views.dll" size="19006976">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>rMi/XoNJyYb8vzF5Ape+I4BOMqWMYSXqK1NlzlzLf2M=</dsig:DigestValue>
+      <dsig:DigestValue>yWjV6nS0sAI1LNIWqcBqSAqBT5bkn96oXoeRVqatSPc=</dsig:DigestValue>
     </hash>
   </file>
   <file name="OC.Excel.dll" size="7680">
@@ -438,7 +438,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>/+MjGvJdRgzJ6//5JgZJuIs9g3Hqnm9F/+wgXxNATcw=</dsig:DigestValue>
+      <dsig:DigestValue>aOJDRXHCkk1sXFrI8oNIqjAy4z0j/mnKZlbpfjwnkBo=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ru\OC.Desktop.Views.resources.dll" size="3072">
@@ -447,7 +447,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>HO3WsrK6s+sSBMdHzPU6xqqWbAynb5GcntqNPRuNAnY=</dsig:DigestValue>
+      <dsig:DigestValue>Mdg7D8awZIFf6N0gPt5MHz2Qll47HHhOv8IKXZ/q+rM=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ru\OC.NetExtension.resources.dll" size="3072">
