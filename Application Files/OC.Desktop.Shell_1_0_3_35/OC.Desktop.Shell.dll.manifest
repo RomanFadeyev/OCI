@@ -117,13 +117,13 @@
       <dsig:DigestValue>HfBsb/BVgqzcB5RpDkEEls/eHWvZ7unkB2EeMfbKjSk=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Common.Desktop.Core.dll" size="2232832">
+  <file name="Common.Desktop.Core.dll" size="2233856">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>DmxaNEMR1eZUAhWHwQ0c63vDbdUl1GYPXIrTWoMELS8=</dsig:DigestValue>
+      <dsig:DigestValue>lkTmbTlUeCqcme09RtaeSKfURa2ETm7RTaof5UURC6Y=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Common.Lib.Db.dll" size="11264">
@@ -414,13 +414,13 @@
       <dsig:DigestValue>5mZkkzdy+88wzc8xvrc9Y2bGmpsd5hEhcpdzahMJ9bs=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="OC.Desktop.Shell.dll" size="83968">
+  <file name="OC.Desktop.Shell.dll" size="83456">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>/idS+hccy+iWjgabJomapzWeSppZzX6gU6DCGfKMhR0=</dsig:DigestValue>
+      <dsig:DigestValue>YOk9ZaoPO1U0iRZBTL05+SuWmMANOZkz2UCY2X0GbBI=</dsig:DigestValue>
     </hash>
   </file>
   <file name="OC.Desktop.Shell.exe" size="174592">
@@ -447,7 +447,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>lYfx1O99ZNHxAV/ey65A09R/Q2lYVV9SB7+cERufW8s=</dsig:DigestValue>
+      <dsig:DigestValue>F4uTik/BFUjrdmyo4y194r8bGBFI8qT480F8wpskI00=</dsig:DigestValue>
     </hash>
   </file>
   <file name="OC.Services.DataManagement.dll" size="69632">
@@ -459,13 +459,13 @@
       <dsig:DigestValue>81Xan1iVJgc4dOt4MJdk3nLL5IgkRYZYHy0tBG60T0c=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="OC.Services.Misc.dll" size="144896">
+  <file name="OC.Services.Misc.dll" size="145920">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>VWgIWA540vZ92xZl3AXP0uQLhFio/DNSKKbhrMsReYE=</dsig:DigestValue>
+      <dsig:DigestValue>sMzOdPxGndOomdLmuoVXnFYRUM3W5wQ4SlzjZJoc/Ag=</dsig:DigestValue>
     </hash>
   </file>
   <file name="OC.Services.OzonSellerConnector.dll" size="256000">
@@ -555,7 +555,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>/ntvQ08wGzdMbXAsXxdMn3ZBCN3EpC55VboxAlEqKys=</dsig:DigestValue>
+      <dsig:DigestValue>dAzPXW8xWJfgpcrtaQuexSYcS3l+LvO/7nMkwVZLN1I=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ru\Lib.NetExtension.resources.dll" size="3072">
@@ -582,7 +582,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>oSoM9XMWMcuSkL+QzKu0TbGPTd1qRIBK/BA6KCjKn1k=</dsig:DigestValue>
+      <dsig:DigestValue>LvDIr4emANIcE313tkp87xbPEntEp8keh6n8X4A3Sgw=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ru\OC.Desktop.Views.resources.dll" size="3072">
@@ -591,7 +591,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>cyScWTWnw1Nudjzu+3du0dJMw086Pd3HXzkHPGfsqhM=</dsig:DigestValue>
+      <dsig:DigestValue>MpBTQYVL/qaslq0XHxrCZTGIu4gbl/RZ3wnE0ubhhxM=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ru\Telerik.Windows.Controls.resources.dll" size="6144">
