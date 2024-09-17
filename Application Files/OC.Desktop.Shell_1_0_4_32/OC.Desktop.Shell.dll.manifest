@@ -555,7 +555,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>ca5iyILSjihl99yxvv/GHpSpOSaF9YnSb3QbHVZdKL0=</dsig:DigestValue>
+      <dsig:DigestValue>EgUotY0NuYKpIzKYxa8hXmNj6v0Id+gd9kacZI7Q3Eg=</dsig:DigestValue>
     </hash>
   </file>
   <file name="office.dll" size="457384">
@@ -654,7 +654,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>cmXBgbPawEahngtBr5WicyUyZgqqBNruYNwIpAWExro=</dsig:DigestValue>
+      <dsig:DigestValue>PPc83xKRSC4LTeQ1C+tRDons2Rq/i9i7gux0G77D6d0=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ru\OC.Desktop.Views.resources.dll" size="3072">
