@@ -261,13 +261,13 @@
       <dsig:DigestValue>WnBBqEfp6EhRNXwBA212zsAP9UP1g9dwecgPT4N8S4s=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Lib.ChromeBrowser.dll" size="45568">
+  <file name="Lib.ChromeBrowser.dll" size="46080">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>VFn+fNnBzIN7SPwavacg/N4iot6bJE0mUjZIHeMnt5Y=</dsig:DigestValue>
+      <dsig:DigestValue>Sfmn+0HfvXjjTGVhfRmP45uC0CGRY9S6gxbHnIMzM7k=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Lib.Excel.dll" size="11264">
@@ -483,7 +483,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>aNEhcaPk87gu5MZ45PjtYODGimfoHo4N66ylJa7f6P4=</dsig:DigestValue>
+      <dsig:DigestValue>fSLwEo7bCOgevcRv5yNSYLjjU9t70nYNTuMm0dpxrUg=</dsig:DigestValue>
     </hash>
   </file>
   <file name="OC.Services.DataManagement.dll" size="65024">
@@ -645,7 +645,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>vzCz0A4Vga4ro3C0SF+szjecpACWUUsaCrWbcXx/dGs=</dsig:DigestValue>
+      <dsig:DigestValue>/SWxYZjGjZCgP2zQeNE4gu725hZ+JzlMpSeJ8pqsZk0=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ru\OC.Desktop.Views.resources.dll" size="3072">
@@ -654,7 +654,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>UgDAGSuEb05X5FybLgdA5AYqA54VTmBvaCsV+zFlwOg=</dsig:DigestValue>
+      <dsig:DigestValue>jJ87pVB8Ko+7JQ6Kq5HchPDyAtFCQr6DeLxIsYMhgAA=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ru\Telerik.Windows.Controls.resources.dll" size="6144">
