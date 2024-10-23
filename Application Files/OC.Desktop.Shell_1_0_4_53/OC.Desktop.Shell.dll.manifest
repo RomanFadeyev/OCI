@@ -420,7 +420,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>fOryCMlaxHAfkffYfKRKoouaQPCyWb1BbPpC3ZtzUBg=</dsig:DigestValue>
+      <dsig:DigestValue>TmTkxzpvzvXTBSUr36HBbjShblZlnkHnfo3K9CYy3dQ=</dsig:DigestValue>
     </hash>
   </file>
   <file name="OC.Define.Services.OzonSellerConnector.dll" size="64512">
@@ -465,7 +465,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>PpowEyjkye4+StWfn3N9JpQtxhodysrZFbhkfSJM8gg=</dsig:DigestValue>
+      <dsig:DigestValue>u+37cTqjpaFQ+AEQ4D68hsG22PsZqgDvfxCHpe0WlZs=</dsig:DigestValue>
     </hash>
   </file>
   <file name="OC.Desktop.Shell.exe" size="170496">
@@ -486,13 +486,13 @@
       <dsig:DigestValue>s7YyGNLEslCdg6qby4mt71slRzkLpTHBqKC7ERtBO0k=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="OC.Desktop.Views.dll" size="19361280">
+  <file name="OC.Desktop.Views.dll" size="19361792">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>8l/XR5bAVtGAzVScGWDkEjJH8w/VY1ggKJ2RxE/Zi7I=</dsig:DigestValue>
+      <dsig:DigestValue>1wFfk7skCzyG4E0jK14DAKLNIsQek8KKSz6OLI+AhzY=</dsig:DigestValue>
     </hash>
   </file>
   <file name="OC.Services.DataManagement.dll" size="62976">
@@ -510,7 +510,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>iq33JBzHNqCebviEDkKbCiLDHAATdYuYUNHmzbvSZu8=</dsig:DigestValue>
+      <dsig:DigestValue>Qtope6qHTfe17ovFxWsGCxdYs9GiluItiVq9loNj/BI=</dsig:DigestValue>
     </hash>
   </file>
   <file name="OC.Services.OzonSellerConnector.dll" size="272896">
@@ -555,7 +555,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>P9HkYwJDhelQ0whTn+Q3xhR6jJlzVfiXbe2SbZbwSyM=</dsig:DigestValue>
+      <dsig:DigestValue>C18CM7L8dNeFZxYGFIwp3R9HDF3glWqej6Cg6DitQN4=</dsig:DigestValue>
     </hash>
   </file>
   <file name="office.dll" size="457384">
@@ -645,7 +645,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>UZZYHkdtZ/U5++g/6tO4uJphulZ2soHpfC6x/7pHvvY=</dsig:DigestValue>
+      <dsig:DigestValue>mP0LZjbeJXDzpLXcN3VYZyGaiZgg3xbk2o1SQi9+LjU=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ru\OC.Desktop.Shell.resources.dll" size="2560">
@@ -654,7 +654,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>c36kdzEZ1ijpt0Vmyk1jDCYZ0jy+bNWkdotuCER6rhY=</dsig:DigestValue>
+      <dsig:DigestValue>nvTLvFkXg1AQYYYftZ4FoPqOZwEssYrD6lN4Vbg+z5g=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ru\OC.Desktop.Views.resources.dll" size="3072">
@@ -663,7 +663,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>Ck8aVqBV5x3Ri0Fx8Er1fsCW43gUc83uVyW9stpeCDI=</dsig:DigestValue>
+      <dsig:DigestValue>2zI2qnvXJFgYKqN+k4wiihDhmV8U7czIoukJSuIToxo=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ru\Telerik.Windows.Controls.resources.dll" size="6144">
