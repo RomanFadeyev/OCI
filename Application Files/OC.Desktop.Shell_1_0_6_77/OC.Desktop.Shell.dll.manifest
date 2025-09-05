@@ -753,7 +753,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>Is6KCaF1ujHe1ZociHiuE3P6n8XbowX3YUhZ+uYAruw=</dsig:DigestValue>
+      <dsig:DigestValue>OKF1LqWedchDZ7R7PSiqwm9w8cEAQ7/6Fu5rrUwzlec=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ru\OC.Desktop.Views.resources.dll" size="3072">
